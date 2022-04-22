@@ -2,29 +2,23 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 ![TTESS:Logo](https://bitbucket.org/AdrianArtacho/tesserakt/raw/HEAD/TESSER_logo.png)
 
+# Tesser_block
 
-# Tesser_block #
+This device allows to block selectively different kinds of midi data.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+![TESS:block](https://docs.google.com/drawings/d/e/2PACX-1vSlAh_LTPa2xUg6QhsWvAaiGfIpitpdf-YHpFK9PoYEO4NfnMeqil69FhrxB6wNfO3HG4V_xqAoVzzC/pub?w=405&h=219)
 
-### How do I get set up? ###
+### Usage
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+The settings can be stored with the device/set. They can also be *automated*.
 
-### Contribution guidelines ###
+### Credits
 
-* Writing tests
-* Code review
-* Other guidelines
+This device is a derivative patch largely taken from AbletonDrummer's object.
 
-### Who do I talk to? ###
+____
 
-* Repo owner or admin
-* Other community or team contact
+# To-Do
+
+* document
+* 
