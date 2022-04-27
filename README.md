@@ -21,4 +21,6 @@ ____
 # To-Do
 
 * document
+* Add feature to **print in maxwindow** specific kinds of cc input
+* Extended feature: block **specific notes which are set using the gesture CC**. This is practical, for example, if you are playing the keyboard and whant to block the area where the hands are from playing new notes, etc.
 * 
