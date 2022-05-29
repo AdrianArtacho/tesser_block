@@ -2,8 +2,8 @@
 	"name" : "Tesser_block",
 	"version" : 1,
 	"creationdate" : 3722956899,
-	"modificationdate" : 3722956923,
-	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
+	"modificationdate" : 3736679254,
+	"viewrect" : [ -302.0, 56.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,16 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"3StateToggle.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/Max 8/Projects/[TesserAkt]/TesserAkt/tesser_block/gui_toggle",
+					"projectrelativepath" : "../gui_toggle"
+				}
+
 			}
 
 		}
