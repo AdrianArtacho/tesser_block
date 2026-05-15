@@ -82,8 +82,4 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 ---
 
-# To-Do
-
-* Add feature to **print in maxwindow** specific kinds of cc input
-* Extended feature: block **specific notes which are set using the gesture CC**. This is practical, for example, if you are playing the keyboard and whant to block the area where the hands are from playing new notes, etc.
-* 
+# [📝To-Do](https://trello.com/c/kX97LH44/254-tesserblock)
